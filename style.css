@@ -1,0 +1,14 @@
+svg {
+	background-color: antiquewhite;
+}
+.axis path {
+    fill: none;
+    stroke: #777;
+    shape-rendering: crispEdges;
+}
+.axis text,
+.x-label,
+.y-label{
+    font-family: Lato;
+    font-size: 13px;
+}
